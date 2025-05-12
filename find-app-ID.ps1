@@ -1,5 +1,5 @@
 # Define the application name to search for
-$appName = "GitKraken"
+$appName = ""
 
 # Function to check registry for application
 function Check-RegistryForApp {
